@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello, I'm Bruno! 👋
+
+💻 Developer focused on automation, bots, and web scraping  
+🚀 Creating solutions with Python, JavaScript, and React  
+🎯 Selling services on Fiverr  
+
+📫 **Contact:** [brkas_dev@proton.me]  
+
 
 # Olá, eu sou Bruno! 👋
 
@@ -6,7 +13,7 @@
 🚀 Criando soluções com Python, JavaScript e React  
 🎯 Vendendo serviços no Fiverr  
 
-📫 **Contato:** [brkas_dev@protonmail.com]  
+📫 **Contato:** [brkas_dev@proton.me]  
 
 
 <!--
