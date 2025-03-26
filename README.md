@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# Olá, eu sou Bruno! 👋
+
+💻 Desenvolvedor focado em automações, bots e scraping  
+🚀 Criando soluções com Python, JavaScript e React  
+🎯 Vendendo serviços no Fiverr  
+
+📫 **Contato:** [brkas_dev@protonmail.com]  
+
+
 <!--
 **brkas96/brkas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
