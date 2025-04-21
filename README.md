@@ -8,7 +8,7 @@
 
 💬 **Portfólio:** [https://brkas96.github.io/Portfolio/]
 
-⚡ **Buy Me a Coffee:** [buymeacoffee.com/brunobenveh]
+⚡ **Buy Me a Coffee:** [https://buymeacoffee.com/brunobenveh]
 
 <!--
 **brkas96/brkas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
